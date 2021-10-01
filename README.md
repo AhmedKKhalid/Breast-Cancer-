@@ -15,8 +15,9 @@
 * standardization 
 
 # EDA
-![](https://github.com/AhmedKKhalid/Breast-Cancer-/blob/main/Screen_shot/Capture.PNG)![](https://github.com/AhmedKKhalid/Breast-Cancer-/blob/main/Screen_shot/3.PNG)
-![](https://github.com/AhmedKKhalid/Breast-Cancer-/blob/main/Screen_shot/5.PNG)![](https://github.com/AhmedKKhalid/Breast-Cancer-/blob/main/Screen_shot/4.PNG)
+![](https://github.com/AhmedKKhalid/Breast-Cancer-/blob/main/Screen_shot/Capture.PNG)
+![](https://github.com/AhmedKKhalid/Breast-Cancer-/blob/main/Screen_shot/3.PNG)![](https://github.com/AhmedKKhalid/Breast-Cancer-/blob/main/Screen_shot/5.PNG)
+![](https://github.com/AhmedKKhalid/Breast-Cancer-/blob/main/Screen_shot/4.PNG)
 
 
 
